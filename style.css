@@ -1,5 +1,4 @@
 .mainBody {
-  margin: 5rem;
   text-align: center;
 }
 
@@ -11,4 +10,7 @@
 }
 .header {
   background-color: #eceaea;
+}
+.hr {
+  background-color: black;
 }
