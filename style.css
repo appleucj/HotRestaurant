@@ -1,9 +1,14 @@
 .mainBody {
   margin: 5rem;
   text-align: center;
-  background-color: #cccccc;
 }
 
 .viewTables {
   margin: 1rem;
+}
+.links {
+  margin-left: 0rem;
+}
+.header {
+  background-color: #eceaea;
 }
